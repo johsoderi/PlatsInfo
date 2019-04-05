@@ -10,7 +10,7 @@
 # Declare as XTerm-256color. Display ANSI colors.
 
 #----/ API KEYS /-----------------------------------------------------------------------------------#
-gKey = "AIzaSyB4NL0TYfdKFSg5FjvbNsQkSWkhsfFtmpU"
+gKey = "YOUR-GOOGLE-CLOUD-API-KEY-HERE"
 
 #####| BEGIN STYLING CODE |##################################################################
 #                                                                                           #
