@@ -1,5 +1,4 @@
 # PlatsInfo
-# DevOpsProject-PlatsInfo
 
 This is a project I did for the Python beginner course "Programmering och systemering" at Nackademin in Stockholm 2018.
 The intention was to provide an information platform for people inclined to relocate inside of Sweden, and for  (Swedish reading) foreigners who plan to move here.
