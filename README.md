@@ -1,7 +1,9 @@
 # PlatsInfo
 
 This is a project I did for the Python beginner course "Programmering och systemering" at Nackademin in Stockholm 2018. The assignment was to make a CLI application, making use of classes.
+
 My intention was to provide an information platform for people inclined to relocate inside of Sweden, and for (Swedish reading) foreigners who plan to move here.
+
 It aims to collect information about a place from different sources and present them in a neat way, giving the user an overview of a place they might be interested in. The result can be seen in action below:
 
 ![](/misc/sthlm.gif)
